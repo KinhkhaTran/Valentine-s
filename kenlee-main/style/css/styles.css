@@ -10,12 +10,11 @@ body {
 }
 
 #noButton {
-    position: absolute;
     transition: 0.3s;
 }
 
 #yesButton {
-    margin-right: 80px;
+    margin-right: 20px;
 }
 
 .header_text {
